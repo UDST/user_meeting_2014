@@ -1,4 +1,4 @@
-user_meeting_2014
-=================
+Synthicity 2014 User Meeting - Examples
+=======================================
 
-Runnable examples for the 2014 Synthicity User Meeting
+This repository contains files associated with code demos that are shown at the Synthicity 2014 User Meeting.

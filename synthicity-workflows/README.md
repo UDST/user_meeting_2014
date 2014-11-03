@@ -4,7 +4,7 @@ https://github.com/synthicity
 
 ### UrbanSim: Model Real Estate Markets
 
-https://github.com/synthicity/pandana
+https://github.com/synthicity/urbansim
 
 [![Binstar Version](https://binstar.org/synthicity/urbansim/badges/version.svg)](https://binstar.org/synthicity/urbansim)
 [![Latest Version](https://pypip.in/version/urbansim/badge.svg?text=pypi)](https://pypi.python.org/pypi/urbansim/)

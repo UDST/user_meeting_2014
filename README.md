@@ -22,3 +22,8 @@ Pandana
 
 - [Code](./pandana)
 - [Demo Notebook](http://nbviewer.ipython.org/github/synthicity/user_meeting_2014/blob/gh-pages/pandana/demo1.ipynb)
+
+Spandex
+-------
+
+- [Demo Notebook](http://nbviewer.ipython.org/github/synthicity/user_meeting_2014/blob/gh-pages/spandex/spandex_demo.ipynb)
